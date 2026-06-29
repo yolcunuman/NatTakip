@@ -78,4 +78,5 @@ jobs:
           git config user.email "bot@duyuru-takip.local"
           git add son_duyuru_id.txt
           git diff --staged --quiet || git commit -m "🔄 Son duyuru ID güncellendi [bot]"
+          git pull --rebase origin main || true
           git push
