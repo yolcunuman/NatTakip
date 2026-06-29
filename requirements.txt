@@ -1,0 +1,4 @@
+# Duyuru Takip Botu - Gerekli Python Kütüphaneleri
+# GitHub Actions bu dosyayı okuyarak kütüphaneleri otomatik yükler.
+requests
+beautifulsoup4
